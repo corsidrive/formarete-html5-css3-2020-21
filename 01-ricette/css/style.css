@@ -24,3 +24,15 @@
         .primo-piatto .intro-ricetta {
             border-bottom: 1px solid orange;
         }
+
+        .img-left {
+            float:left;
+            margin-right: 20px;
+            margin-bottom: 10px;
+        }
+
+        .img-right {
+            float:right;
+            margin-left: 20px;
+            margin-bottom: 10px;
+        }
