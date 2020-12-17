@@ -1,0 +1,26 @@
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: rgb(60, 65, 87);
+            color: white;
+        }
+
+        h1, h2 {
+            font-family: 'Roboto', arial, sans-serif;
+        }
+
+        .dolci h1 {
+            color: yellow;
+        }
+
+        
+        .dolci  .intro-ricetta {
+            border-bottom: 1px solid yellow;
+        }
+
+        .primo-piatto h1 {
+            color: orange;
+        }
+
+        .primo-piatto .intro-ricetta {
+            border-bottom: 1px solid orange;
+        }
