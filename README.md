@@ -1,7 +1,6 @@
 # formarete-html5-css3-2020-21
 
-
-HTML di base
+## HTML di base
 
 [Come si scrivoni i tag](https://https://www.w3schools.com/html/html_intro.asp)
 
@@ -14,7 +13,7 @@ HTML di base
 [Colori HTML](https://www.w3schools.com/html/html_colors.asp)
 
 
-Introduzione ai CSS
+## Introduzione ai CSS
 
 [Dove li metto ?](https://www.w3schools.com/html/html_css.asp)
 
