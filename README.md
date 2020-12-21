@@ -39,3 +39,17 @@
 - [Come controllare il testo intorno a un immagine](https://www.hostpapa.com/knowledgebase/align-float-images-website/)
 - [Margini CSS](https://www.w3schools.com/css/css_margin.asp)
 - [Bordi CSS](https://www.w3schools.com/css/css_border.asp)
+
+
+## tag html visti
+
+[Mark](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_mark) 
+
+[Blockquote](https://www.w3schools.com/tags/tag_blockquote.asp)
+
+# Box Model e In-line model
+ [w3school](https://www.w3schools.com/html/html_blocks.asp)
+
+ [Html.it articolo su box model](https://www.html.it/articoli/capire-il-box-model/)
+
+[Altro articolo](https://codeburst.io/block-level-and-inline-elements-the-difference-between-div-and-span-2f8502c1f95b)
