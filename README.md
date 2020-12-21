@@ -53,3 +53,9 @@
  [Html.it articolo su box model](https://www.html.it/articoli/capire-il-box-model/)
 
 [Altro articolo](https://codeburst.io/block-level-and-inline-elements-the-difference-between-div-and-span-2f8502c1f95b)
+
+## Articolo FONDAMENTALE sul flexbox
+
+[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+![schema](https://css-tricks.com/wp-content/uploads/2018/11/00-basic-terminology.svg)
