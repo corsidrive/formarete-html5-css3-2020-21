@@ -66,9 +66,15 @@
 [margin](https://www.w3schools.com/css/css_margin.asp)
 
 
+## Lezione del 22/12/2020
 
-## Articolo FONDAMENTALE sul flexbox
+### Articolo FONDAMENTALE sul flexbox
 
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ![schema](https://css-tricks.com/wp-content/uploads/2018/11/00-basic-terminology.svg)
+
+
+### Esempi fatti in classe di Flexbox
+
+[./03-flexbox/colonne-uguali.html]("./03-flexbox/colonne-uguali.html")
