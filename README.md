@@ -77,6 +77,14 @@
 
 ### Esempi fatti in classe di Flexbox
 
-[colonne uguali - flexbox](03-flexbox/colonne-uguali.html)
+- [colonne uguali - flexbox](03-flexbox/colonne-uguali.html)
+- [cover a tutto schermo - flexbox](03-flexbox/cover.html)
 
-[cover a tutto schermo - flexbox](03-flexbox/cover.html)
+
+## Lezione del 23/12/2020
+
+### Introduzione all'utilizzo del client FTP
+
+- [filezilla - scaricare il client](https://filezilla-project.org/)
+- [Hosting web gratuito su altervista](https://it.altervista.org/)
+
