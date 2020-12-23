@@ -77,4 +77,6 @@
 
 ### Esempi fatti in classe di Flexbox
 
-[colonne uguali](03-flexbox/colonne-uguali.html)
+[colonne uguali - flexbox](03-flexbox/colonne-uguali.html)
+
+[cover a tutto schermo - flexbox](03-flexbox/cover.html)
