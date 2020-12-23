@@ -1,0 +1,44 @@
+@startuml
+scale 1
+
+body <|-- "box"
+
+"box" <|-- "box-tips" 
+"box" <|-- "box-note" 
+"box" <|-- "box-warning" 
+"box" <|-- "box-error" 
+
+class body{
+    font-size:16px
+    color:black;
+    line-height:normale
+}
+
+class box{
+    padding:10px;
+    border-left-witdh:5px
+
+}
+
+class "box-tips"{
+    color:verde
+    border-color:verde;
+}
+
+class "box-note"{
+    color:azzurro
+      border-color:azzurro;
+}
+
+class "box-warning"{
+    color:arancione
+      border-color:arancione;
+
+
+}
+class "box-error"{
+    color:red
+      border-color:red;
+
+}
+@enduml
