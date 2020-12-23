@@ -1,0 +1,39 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+   
+.box{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.word{
+  font-family: monospace;
+  font-size: 15px;
+  color: lightseagreen
+}
+
+.note, .warning, .tip{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 50px;
+}
+
+.note{
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
+
+.warning{
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+
+.tip{
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}

@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+p.regularP{
+    margin:15px;
+}
+
+p.box{
+    margin:15px;
+    padding:25px;
+    border-style: solid;
+}
+
+p.note{
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
+
+p.warning{
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+
+p.tip{
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+
