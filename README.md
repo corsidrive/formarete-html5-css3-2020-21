@@ -77,4 +77,4 @@
 
 ### Esempi fatti in classe di Flexbox
 
-[./03-flexbox/colonne-uguali.html]("./03-flexbox/colonne-uguali.html")
+[colonne uguali](03-flexbox/colonne-uguali.html)
