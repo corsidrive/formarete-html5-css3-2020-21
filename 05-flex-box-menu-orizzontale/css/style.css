@@ -1,0 +1,64 @@
+/* reset */
+body {
+    /* background-color: tan; */
+    margin: 0;
+}
+
+nav ul, nav ol  {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: violet;
+}
+
+/* end reset */
+
+#main-nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: greenyellow;
+}
+
+#main-nav ol,#main-nav ul {
+    display:flex;
+    align-items: center;
+
+}
+#main-nav #account {
+    display: flex;
+    align-items: center;
+}
+
+#main-nav a {
+    padding: 1rem;
+    background-color: grey;
+    border: 1px solid red;
+}
+
+#main-nav #avatar {
+    height: 50px;
+}
+
+
+/* mobile version ----------------------------------*/
+
+
+@media screen and (max-width: 600px) {
+  
+
+
+    #main-nav ol,#main-nav ul {
+        display:block;
+        width: 100%;
+    }
+    
+    #main-nav a {display: block;}
+    
+    #main-nav #account {
+        display: none;
+    }
+
+
+}
+
+
