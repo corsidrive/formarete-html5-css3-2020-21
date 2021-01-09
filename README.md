@@ -133,6 +133,8 @@ Esecitazione 3 alert-box
 
 ### BEM CSS, strategia per la nomenclatura dei selettori CSS
 
+<img src="https://miro.medium.com/max/875/0*01s0Te7Awgz6auxE">
+
 - [Sito ufficiale](http://getbem.com/introduction/)
 - [Semplifichiam i css com BEM](https://blexin.com/it/blog/semplifichiamo-i-css-con-bem/)
 - [BEM su HTML.it](https://www.html.it/pag/50349/bem-block-element-modifier/)
