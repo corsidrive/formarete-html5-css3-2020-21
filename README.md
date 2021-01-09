@@ -131,7 +131,7 @@ Esecitazione 3 alert-box
 
 - [Font Awesome con pseudo classi ](https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements)
 
-#### BEM CSS, strategia per la nomenclatura dei selettori CSS
+### BEM CSS, strategia per la nomenclatura dei selettori CSS
 
 - [Sito ufficiale](http://getbem.com/introduction/)
 - [Semplifichiam i css com BEM](https://blexin.com/it/blog/semplifichiamo-i-css-con-bem/)
