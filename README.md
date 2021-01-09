@@ -50,31 +50,33 @@
 
 ### Box Model e In-line model
 
- [w3school](https://www.w3schools.com/html/html_blocks.asp)
+![boxmodel](https://blog.4psa.com/wp-content/uploads/block-inline1.png)
+![boxmodel](https://s3.amazonaws.com/viking_education/web_development/web_app_eng/css_box_model_chrome.png)
 
- [Html.it articolo su box model](https://www.html.it/articoli/capire-il-box-model/)
+ - [w3school](https://www.w3schools.com/html/html_blocks.asp)
 
- [Altro articolo](https://codeburst.io/block-level-and-inline-elements-the-difference-between-div-and-span-2f8502c1f95b)
+ - [Html.it articolo su box model](https://www.html.it/articoli/capire-il-box-model/)
+
+ - [Altro articolo](https://codeburst.io/block-level-and-inline-elements-the-difference-between-div-and-span-2f8502c1f95b)
 
 ## proprietà CSS 
 
-[bordi in generale](https://www.w3schools.com/css/css_border.asp)
-[bordi scorciatoie](https://www.w3schools.com/css/css_border_shorthand.asp)
+- [bordi in generale](https://www.w3schools.com/css/css_border.asp)
+- [bordi scorciatoie](https://www.w3schools.com/css/css_border_shorthand.asp)
 
-[padding](https://www.w3schools.com/css/css_padding.asp)
+- [padding](https://www.w3schools.com/css/css_padding.asp)
 
-[margin](https://www.w3schools.com/css/css_margin.asp)
+- [margin](https://www.w3schools.com/css/css_margin.asp)
 
 
 ## Lezione del 22/12/2020
 
-Esecitazione 3 alert-box
+### Esecitazione 3 alert-box
 
 ### Articolo FONDAMENTALE sul flexbox
 
-[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
-![schema](https://css-tricks.com/wp-content/uploads/2018/11/00-basic-terminology.svg)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [schema](https://css-tricks.com/wp-content/uploads/2018/11/00-basic-terminology.svg)
 
 ### Esempi fatti in classe di Flexbox
 
