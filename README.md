@@ -91,8 +91,9 @@ Esecitazione 3 alert-box
 
 ## Lezioni dal 7 all 8 gennaio 
 
-- [Menu mobile Fatto in classe](./05-flex-box-menu-orizzontale/index.html)
-
+### Esercitazioni fatte in classe
+- [Menu mobile fatto in classe](./05-flex-box-menu-orizzontale/index.html)
+- [Come centrare tutto il sito (domanda di Gaia)](./05-flex-box-menu-orizzontale/center.html)
 
 <img src="https://blog-static.leevia.com/wp-content/uploads/2017/03/Asset-4-300x135.png">
 <img src="https://blog-static.leevia.com/wp-content/uploads/2017/03/Asset-4-300x135.png">
@@ -127,3 +128,10 @@ Esecitazione 3 alert-box
 
 #### ::Before e ::After
 - [Font Awesome con pseudo classi ](https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements)
+
+
+### BEM CSS, strategia per la nomenclatura dei selettori CSS
+
+- [Sito ufficiale](http://getbem.com/introduction/)
+- [Semplifichiam i css com BEM](https://blexin.com/it/blog/semplifichiamo-i-css-con-bem/)
+- [BEM su HTML.it](https://www.html.it/pag/50349/bem-block-element-modifier/)
