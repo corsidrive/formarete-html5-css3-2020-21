@@ -89,3 +89,40 @@ Esecitazione 3 alert-box
 - [filezilla - scaricare il client](https://filezilla-project.org/)
 - [Hosting web gratuito su altervista](https://it.altervista.org/)
 
+## Lezioni dal 7 all 8 gennaio 
+
+
+
+<img src="https://blog-static.leevia.com/wp-content/uploads/2017/03/Asset-4-300x135.png">
+<img src="https://blog-static.leevia.com/wp-content/uploads/2017/03/Asset-4-300x135.png">
+
+### Responsive web design
+
+- [Progettazione Mobile First](https://www.ionos.it/digitalguide/siti-web/web-design/mobile-first-un-nuovo-approccio-del-web-design/#:~:text=Mobile%20First%20%C3%A8%20un%20approccio,per%20i%20siti%20per%20desktop.&text=Ci%C3%B2%20condiziona%20anche%20la%20creazione,dietro%20ad%20un%20sito%20web.)
+
+- [Content Choreography](https://responsivedesign.is/articles/content-choreography/)
+
+
+- [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)
+
+#### Esempi pratici
+
+- [Menu con media queries e altri esempi](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
+- [Creazione di un sistema di colonne con media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+
+#### Breakpoints per media queries
+- [Media queries scelte dal frameworks Bootstrap](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
+- [Media queries per i dispositivi più diffusi](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+
+---
+
+### CSS Pseudo-element
+
+- [Articolo introduttivo su CSS-TRICKS](https://css-tricks.com/pseudo-class-selectors/)
+
+#### CSS Pseudo-classes
+- [Elenco delle pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+
+#### ::Before e ::After
+- [Font Awesome con pseudo classi ](https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements)

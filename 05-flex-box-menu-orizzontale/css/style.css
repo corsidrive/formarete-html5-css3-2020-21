@@ -29,11 +29,20 @@ nav ul, nav ol  {
     align-items: center;
 }
 
+
+
 #main-nav a {
     padding: 1rem;
     background-color: grey;
     border: 1px solid red;
+    
 }
+
+#main-nav a:hover  {
+    background-color: yellow;
+}
+
+
 
 #main-nav #avatar {
     height: 50px;
@@ -42,11 +51,9 @@ nav ul, nav ol  {
 
 /* mobile version ----------------------------------*/
 
-
+/* fino a 600 px */
 @media screen and (max-width: 600px) {
   
-
-
     #main-nav ol,#main-nav ul {
         display:block;
         width: 100%;
@@ -57,7 +64,6 @@ nav ul, nav ol  {
     #main-nav #account {
         display: none;
     }
-
 
 }
 
