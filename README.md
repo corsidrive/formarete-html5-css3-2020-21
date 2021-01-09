@@ -124,13 +124,14 @@ Esecitazione 3 alert-box
 - [Articolo introduttivo su CSS-TRICKS](https://css-tricks.com/pseudo-class-selectors/)
 
 #### CSS Pseudo-classes
+
 - [Elenco delle pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
 
 #### ::Before e ::After
+
 - [Font Awesome con pseudo classi ](https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements)
 
-
-### BEM CSS, strategia per la nomenclatura dei selettori CSS
+#### BEM CSS, strategia per la nomenclatura dei selettori CSS
 
 - [Sito ufficiale](http://getbem.com/introduction/)
 - [Semplifichiam i css com BEM](https://blexin.com/it/blog/semplifichiamo-i-css-con-bem/)
