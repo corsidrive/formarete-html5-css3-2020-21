@@ -91,6 +91,7 @@ Esecitazione 3 alert-box
 
 ## Lezioni dal 7 all 8 gennaio 
 
+- [Menu mobile Fatto in classe](./05-flex-box-menu-orizzontale/index.html)
 
 
 <img src="https://blog-static.leevia.com/wp-content/uploads/2017/03/Asset-4-300x135.png">
