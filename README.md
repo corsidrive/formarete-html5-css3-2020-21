@@ -76,7 +76,7 @@
 ### Articolo FONDAMENTALE sul flexbox
 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [schema](https://css-tricks.com/wp-content/uploads/2018/11/00-basic-terminology.svg)
+- ![schema](https://css-tricks.com/wp-content/uploads/2018/11/00-basic-terminology.svg)
 
 ### Esempi fatti in classe di Flexbox
 
