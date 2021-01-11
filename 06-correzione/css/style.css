@@ -1,0 +1,26 @@
+/*Reset CSS*/
+* {
+    box-sizing: border-box;
+}
+
+body,h1,h2,h3,h4,h5,h6 {margin: 0;}
+
+nav ul,nav ol {
+    margin: 0;padding: 0;
+    list-style-type: none;
+}
+
+/* CSS Esercitazione */
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+footer,header {background-color: bisque;}
+
+.container {
+    width: 1350px;
+    margin: 0 auto;
+    background-color: aqua;
+    padding: 0 1rem;
+}
