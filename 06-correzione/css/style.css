@@ -16,11 +16,42 @@ body {
     font-size: 16px;
 }
 
-footer,header {background-color: bisque;}
+footer,header {}
 
 .container {
     width: 1350px;
     margin: 0 auto;
-    background-color: aqua;
+   
     padding: 0 1rem;
+}
+
+/*section */
+
+.section__header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section__title {
+    color:indigo;
+
+}
+
+.section__title::before{
+    content:"\f005";
+    font-family: "Font Awesome 5 Free";
+}
+
+.section__title:after{
+    content:"";
+    display: block;
+    border-bottom: 3px solid orange;
+    width: 3rem;
+}
+
+.section__content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
 }
