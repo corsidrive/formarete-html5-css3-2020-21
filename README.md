@@ -140,3 +140,14 @@
 - [Sito ufficiale](http://getbem.com/introduction/)
 - [Semplifichiam i css com BEM](https://blexin.com/it/blog/semplifichiamo-i-css-con-bem/)
 - [BEM su HTML.it](https://www.html.it/pag/50349/bem-block-element-modifier/)
+
+
+## Correzione Esercitazioni
+
+- [Schema per ragionare sulla struttura](https://docs.google.com/drawings/d/1RihT9uWVErn2jNzwYYJF4ebF0LFeDm2ckh9oLRANwwU/edit?usp=sharing)
+
+- [Video su BEM](https://www.marchettidesign.net/2016/06/bem-scrivere-css-facili-da-comprendere-mantenibili-e-scalabili/)
+
+
+
+###  
