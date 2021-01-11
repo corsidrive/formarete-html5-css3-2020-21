@@ -54,9 +54,7 @@
 ![boxmodel](https://s3.amazonaws.com/viking_education/web_development/web_app_eng/css_box_model_chrome.png)
 
  - [w3school](https://www.w3schools.com/html/html_blocks.asp)
-
  - [Html.it articolo su box model](https://www.html.it/articoli/capire-il-box-model/)
-
  - [Altro articolo](https://codeburst.io/block-level-and-inline-elements-the-difference-between-div-and-span-2f8502c1f95b)
 
 ## proprietà CSS 
@@ -142,12 +140,11 @@
 - [BEM su HTML.it](https://www.html.it/pag/50349/bem-block-element-modifier/)
 
 
-## Correzione Esercitazioni
+## Lezione del 11/01/2021 
+
+### Correzione Esercitazione
 
 - [Schema per ragionare sulla struttura](https://docs.google.com/drawings/d/1RihT9uWVErn2jNzwYYJF4ebF0LFeDm2ckh9oLRANwwU/edit?usp=sharing)
-
 - [Video su BEM](https://www.marchettidesign.net/2016/06/bem-scrivere-css-facili-da-comprendere-mantenibili-e-scalabili/)
 
-
-
-###  
+- [file](./06-correzione) 
