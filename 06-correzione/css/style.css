@@ -14,6 +14,7 @@ nav ul,nav ol {
 body {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
+    background-color: #e5e4e3;
 }
 
 footer,header {}
@@ -23,7 +24,29 @@ footer,header {}
     margin: 0 auto;
    
     padding: 0 1rem;
+   
 }
+
+/* section */
+.col-25,.col-50,.col-33{
+    padding: 1rem;
+}
+/* 
+.col-25:first-child,.col-50:first-child,.col-33:first-child {
+    padding-left: 0;
+}
+.col-25:last-child,.col-50:last-child,.col-33:last-child {
+    padding-right: 0;
+} 
+*/
+
+
+
+.col-25 {
+    width: 25%;
+    
+}
+
 
 /*section */
 
@@ -37,11 +60,15 @@ footer,header {}
 
 }
 
+/* icona di fa messa con il codice del carattere */
+/*
 .section__title::before{
     content:"\f005";
     font-family: "Font Awesome 5 Free";
 }
+*/
 
+/* riga sotto il titolo */
 .section__title:after{
     content:"";
     display: block;
@@ -54,4 +81,26 @@ footer,header {}
     justify-content: space-between;
     flex-wrap: wrap;
 
+}
+
+/* card */
+
+.card {
+    background-color: white;
+}
+.card__image {
+    position: relative;
+    margin: 0;
+}
+
+.card__image img {
+    width: 100%;
+    display: block;
+}
+
+.card__label {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: yellowgreen;
 }
