@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centratura con transform</title>
+    <style>
+        .container {
+            display: flex;
+        }
+       .card {
+           width: 10rem;
+           height: 20rem;
+           background-color: chocolate;
+
+           position: relative;
+       } 
+       .center {
+           background-color: cornflowerblue;
+           position: absolute;
+           top:50%;
+           left:50%;
+           transform: translate(-50%,-50%);
+           text-align: center;
+       }
+       .bg{
+           background-color: crimson;
+       }
+    </style>
+</head>
+<body>
+    <section class="container">
+        <div class="card">
+            <div class="center">text</div>
+            <div class="bg">dietro</div>
+        </div>
+        <div class="card">
+            <div class="center">text due righe</div>
+            <div class="bg">dietro</div>
+        </div>
+    </section>
+</body>
+</html>
