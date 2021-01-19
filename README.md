@@ -157,3 +157,13 @@
 
 - [Navigazione](https://1stwebdesigner.com/pure-css-navigation-menus/)
 - [Checkbox](https://css-tricks.com/almanac/selectors/c/checked/#:~:text=The%20%3Achecked%20pseudo%2Dclass%20in,toggled%20to%20an%20on%20state.)
+
+## Sito  can i use
+
+- [sito](https://caniuse.com/)
+- [compatibilità di transform](https://caniuse.com/?search=transform)
+
+- [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+
+
+- [flip card CSS](https://www.w3schools.com/howto/howto_css_flip_card.asp) 
