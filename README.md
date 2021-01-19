@@ -148,3 +148,12 @@
 - [Video su BEM](https://www.marchettidesign.net/2016/06/bem-scrivere-css-facili-da-comprendere-mantenibili-e-scalabili/)
 
 - [file](./06-correzione) 
+
+
+## Correzione
+
+
+## Articoli interessanti
+
+- [Navigazione](https://1stwebdesigner.com/pure-css-navigation-menus/)
+- [Checkbox](https://css-tricks.com/almanac/selectors/c/checked/#:~:text=The%20%3Achecked%20pseudo%2Dclass%20in,toggled%20to%20an%20on%20state.)
